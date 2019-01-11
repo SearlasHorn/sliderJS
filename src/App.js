@@ -11,7 +11,7 @@ class App extends Component {
   render() {
     return (
          <div className="wrapper">
-          <SayFullName name="Sasha" surname="Rybalov" link="http://jsraccoon.ru/es6-classes" />
+          <SayFullName name="Alistar" surname="Rybalov" link="http://jsraccoon.ru/es6-classes" />
           <SayFullName name="Olya" surname="Rybalov" link="https://www.youtube.com/watch?v=LFGsZ6ythQQ" />
           <SayFullName name="Misha" surname="Rybaloff" link="https://developer.mozilla.org" />
       </div>
